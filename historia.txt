@@ -1,0 +1,5 @@
+Esta es la historia del primer archivo para git de platzi
+
+Freddy vega tiene 32 años y nació en colombia
+
+HOy hablaremos de su historia
