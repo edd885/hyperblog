@@ -3,6 +3,8 @@ Esta es la historia del primer archivo para git de platzi
 Freddy vega tiene 33 años y nació en colombia, 
 viviendo en todo el mundo
  
+
+ Experimento 1(en rama experimento)
 Master 1
 
 En camara parece alto, pero la verdad no es tan alto
